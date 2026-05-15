@@ -146,24 +146,9 @@
       "mod_id": "UnifiedSavePath",
       "enabled": true,
       "bundle_url": "https://raw.githubusercontent.com/InternetBrauzer/sts2mm-profiles/main/mods/Unified_Save_Path_1.0.0.zip"
-    },
-    {
-      "name": "Ryoshu",
-      "version": "0.2.10.beta",
-      "source": null,
-      "hash": "a05cde2193e2f290e8f232e08ab97bc713d3a4ffa2c9e53de710da77b0fb6cf8",
-      "files": [
-        "Ryoshu\\Ryoshu.dll",
-        "Ryoshu\\Ryoshu.json",
-        "Ryoshu\\Ryoshu.pck"
-      ],
-      "folder_name": "Ryoshu",
-      "mod_id": "Ryoshu",
-      "enabled": false,
-      "bundle_url": "https://raw.githubusercontent.com/InternetBrauzer/sts2mm-profiles/main/mods/Ryoshu_0.2.10.beta.zip"
     }
   ],
   "created_at": "2026-05-15T17:11:57.849095200Z",
-  "updated_at": "2026-05-15T17:17:03.785899600Z",
+  "updated_at": "2026-05-15T17:18:33.650875100Z",
   "public": true
 }
