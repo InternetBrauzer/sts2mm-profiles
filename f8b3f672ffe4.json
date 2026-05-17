@@ -17,7 +17,7 @@
       "mod_id": "BaseLib",
       "enabled": true,
       "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.2.zip",
-      "bundle_sha256": "bc240f9928b70d81cb94250c1c4d4c6a8290cfc21007eaeae625a6a68072e668"
+      "bundle_sha256": "2f35694902bbcb0a809e98aca29368161963d69cb44ef49f2cfcae743a14e56f"
     },
     {
       "name": "BetterSpire2",
@@ -47,7 +47,7 @@
       "mod_id": "BetterSpire2",
       "enabled": true,
       "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.2.zip",
-      "bundle_sha256": "abafac20060459978d12cc30a71acf395c488b386ef6ad94c10784e4f79a5bd1"
+      "bundle_sha256": "70e87b0e63cccfcb0db814a0aaec82b965d9915bb84d126dcae50c5c47d524a7"
     },
     {
       "name": "discord_game_sdk",
@@ -60,7 +60,7 @@
       "folder_name": "discord_game_sdk",
       "enabled": true,
       "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/discord_game_sdk_vunknown.zip",
-      "bundle_sha256": "b3fc7c5f50550c8dfb8959c01fa8a1dacfc405d05f02389a3f0a2d860c98dc13"
+      "bundle_sha256": "32b628646e33843e7df5f9a1210425b332ae6c2be57b78202856de591c4934f9"
     },
     {
       "name": "Head Start Modifier",
@@ -76,7 +76,7 @@
       "mod_id": "HeadstartModifier",
       "enabled": true,
       "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Head_Start_Modifier_v1.0.0.zip",
-      "bundle_sha256": "24c58443467c31819cc747ccda7d1977980b485e99cd333ec04bd23fa59564fb"
+      "bundle_sha256": "24b4cdd7e589c0e1662538021a00716dee3ab0616026e364d5f23330baed295d"
     },
     {
       "name": "Party Signals - Automatic Card Callouts",
@@ -105,7 +105,7 @@
       "mod_id": "partysignals",
       "enabled": true,
       "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Party_Signals_-_Automatic_Card_Callouts_v1.0.2.zip",
-      "bundle_sha256": "01f4b6f82293c45235c943698a73bdf22b3d8f7f7cdbba3cdf8cf877eface10b"
+      "bundle_sha256": "552d502bce4e504038e39f31e8fe0c2eb3796870b8e819aec651e129e276d84c"
     },
     {
       "name": "Princess",
@@ -122,7 +122,7 @@
       "mod_id": "Princess",
       "enabled": true,
       "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Princess_v0.0.1.zip",
-      "bundle_sha256": "695c4bd5f3cd1144354d7a3992617a251eceda609077bd93776fd375edc5d61f"
+      "bundle_sha256": "285833098bfd1beeebc840622b8f1c2d2b2bf5e288fad41aaa3f5a281a219898"
     },
     {
       "name": "silentSkin",
@@ -137,7 +137,7 @@
       "mod_id": "silentSkin",
       "enabled": true,
       "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1.zip",
-      "bundle_sha256": "05c7f6e9411a10006226c8a96fdb765d4751692d43d1d3d541341b72b38c751a"
+      "bundle_sha256": "b9c1cf813a40ff2beafb0c6795e96c6ae67361f41a28fa3861eaefe835748135"
     },
     {
       "name": "Unified Save Path",
@@ -153,10 +153,10 @@
       "mod_id": "UnifiedSavePath",
       "enabled": true,
       "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0.zip",
-      "bundle_sha256": "efa00a17bf9aecc0defca72d23ef4037ce2ae0ed079f5ab52ffc343d43216762"
+      "bundle_sha256": "eb711dd30c9195ff303277269f32080dd1089e2b2d23e4f67a19cef9e40598b3"
     }
   ],
   "created_at": "2026-05-15T17:11:57.849095200Z",
-  "updated_at": "2026-05-17T02:40:43.690005500Z",
+  "updated_at": "2026-05-17T02:44:06.286872300Z",
   "public": false
 }
