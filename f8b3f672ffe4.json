@@ -17,52 +17,7 @@
       "mod_id": "BaseLib",
       "enabled": true,
       "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.2.zip",
-      "bundle_sha256": "cccd3a3b1016d31754b543bd36f50db1dce9313191cc8d684310b9375580c503"
-    },
-    {
-      "name": "discord_game_sdk",
-      "version": "unknown",
-      "source": null,
-      "hash": "527768710ddb0953fce5eb1700c2566b6451135d76f1d0610b63907cd5ba94c5",
-      "files": [
-        "discord_game_sdk\\discord_game_sdk.dll"
-      ],
-      "folder_name": "discord_game_sdk",
-      "enabled": true,
-      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/discord_game_sdk_vunknown.zip",
-      "bundle_sha256": "7c15b351e6f84f9bd7b50590a81c085dcacaf29aebace75930e62095f0c119ef"
-    },
-    {
-      "name": "Head Start Modifier",
-      "version": "v1.0.0",
-      "source": null,
-      "hash": "47da7fa063c482ebd05ae79381d8ba328c6bf07ed8988e91ea655f14f0fb8580",
-      "files": [
-        "HeadstartModifier\\HeadstartModifier.dll",
-        "HeadstartModifier\\HeadstartModifier.json",
-        "HeadstartModifier\\HeadstartModifier.pck"
-      ],
-      "folder_name": "HeadstartModifier",
-      "mod_id": "HeadstartModifier",
-      "enabled": true,
-      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Head_Start_Modifier_v1.0.0.zip",
-      "bundle_sha256": "c04b466031f69143b7c443c431457f9ffd6eb0b8384594767cc9bac3a91e85ca"
-    },
-    {
-      "name": "Unified Save Path",
-      "version": "1.0.0",
-      "source": null,
-      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
-      "files": [
-        "UnifiedSavePaths\\UnifiedSavePath.dll",
-        "UnifiedSavePaths\\UnifiedSavePath.pck",
-        "UnifiedSavePaths\\UnifiedSavePath.json"
-      ],
-      "folder_name": "UnifiedSavePaths",
-      "mod_id": "UnifiedSavePath",
-      "enabled": true,
-      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0.zip",
-      "bundle_sha256": "44b084ac5bad8eb774a951d2d88bcb778473697225c3cb438a3047ec804e8f88"
+      "bundle_sha256": "bc240f9928b70d81cb94250c1c4d4c6a8290cfc21007eaeae625a6a68072e668"
     },
     {
       "name": "BetterSpire2",
@@ -90,25 +45,38 @@
       ],
       "folder_name": "BetterSpire2",
       "mod_id": "BetterSpire2",
-      "enabled": false,
+      "enabled": true,
       "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.2.zip",
-      "bundle_sha256": "98fb10f639d2fc36c67c0bdf5a6af77afe8b2351dc3fe34a76c98a221686705b"
+      "bundle_sha256": "abafac20060459978d12cc30a71acf395c488b386ef6ad94c10784e4f79a5bd1"
     },
     {
-      "name": "Card Art Editor",
-      "version": "0.1.0",
+      "name": "discord_game_sdk",
+      "version": "unknown",
       "source": null,
-      "hash": "7ccd49c05613a3f5af481ba341af1786946248eb4e6ea98204930f601bd274a2",
+      "hash": "527768710ddb0953fce5eb1700c2566b6451135d76f1d0610b63907cd5ba94c5",
       "files": [
-        "card_art_editor\\card_art_editor\\card_art_editor.dll",
-        "card_art_editor\\card_art_editor\\card_art_editor.pck",
-        "card_art_editor\\card_art_editor\\manifest.json"
+        "discord_game_sdk\\discord_game_sdk.dll"
       ],
-      "folder_name": "card_art_editor",
-      "mod_id": "card_art_editor",
-      "enabled": false,
-      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Card_Art_Editor_v0.1.0.zip",
-      "bundle_sha256": "011aea977d8cc03427defa249391066659adf71c201f3716ecb83d98dc29440a"
+      "folder_name": "discord_game_sdk",
+      "enabled": true,
+      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/discord_game_sdk_vunknown.zip",
+      "bundle_sha256": "b3fc7c5f50550c8dfb8959c01fa8a1dacfc405d05f02389a3f0a2d860c98dc13"
+    },
+    {
+      "name": "Head Start Modifier",
+      "version": "v1.0.0",
+      "source": null,
+      "hash": "47da7fa063c482ebd05ae79381d8ba328c6bf07ed8988e91ea655f14f0fb8580",
+      "files": [
+        "HeadstartModifier\\HeadstartModifier.dll",
+        "HeadstartModifier\\HeadstartModifier.json",
+        "HeadstartModifier\\HeadstartModifier.pck"
+      ],
+      "folder_name": "HeadstartModifier",
+      "mod_id": "HeadstartModifier",
+      "enabled": true,
+      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Head_Start_Modifier_v1.0.0.zip",
+      "bundle_sha256": "24c58443467c31819cc747ccda7d1977980b485e99cd333ec04bd23fa59564fb"
     },
     {
       "name": "Party Signals - Automatic Card Callouts",
@@ -135,9 +103,9 @@
       ],
       "folder_name": "partysignals",
       "mod_id": "partysignals",
-      "enabled": false,
+      "enabled": true,
       "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Party_Signals_-_Automatic_Card_Callouts_v1.0.2.zip",
-      "bundle_sha256": "aac4cf648ecae997f4778b8a0005182bb2a972632288b522149793f45f119866"
+      "bundle_sha256": "01f4b6f82293c45235c943698a73bdf22b3d8f7f7cdbba3cdf8cf877eface10b"
     },
     {
       "name": "Princess",
@@ -152,9 +120,9 @@
       ],
       "folder_name": "Princess",
       "mod_id": "Princess",
-      "enabled": false,
+      "enabled": true,
       "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Princess_v0.0.1.zip",
-      "bundle_sha256": "7a7d1c85e74c80fbfe21e9ef456c144303f79c30e19a351d40c8ce82690b6492"
+      "bundle_sha256": "695c4bd5f3cd1144354d7a3992617a251eceda609077bd93776fd375edc5d61f"
     },
     {
       "name": "silentSkin",
@@ -167,12 +135,28 @@
       ],
       "folder_name": "silentSkin",
       "mod_id": "silentSkin",
-      "enabled": false,
+      "enabled": true,
       "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1.zip",
-      "bundle_sha256": "f5656b5ae123c80ef46bb11da20abce66c1ae841ff31b266363bf8f2b89057b3"
+      "bundle_sha256": "05c7f6e9411a10006226c8a96fdb765d4751692d43d1d3d541341b72b38c751a"
+    },
+    {
+      "name": "Unified Save Path",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
+      "files": [
+        "UnifiedSavePaths\\UnifiedSavePath.dll",
+        "UnifiedSavePaths\\UnifiedSavePath.pck",
+        "UnifiedSavePaths\\UnifiedSavePath.json"
+      ],
+      "folder_name": "UnifiedSavePaths",
+      "mod_id": "UnifiedSavePath",
+      "enabled": true,
+      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0.zip",
+      "bundle_sha256": "efa00a17bf9aecc0defca72d23ef4037ce2ae0ed079f5ab52ffc343d43216762"
     }
   ],
   "created_at": "2026-05-15T17:11:57.849095200Z",
-  "updated_at": "2026-05-17T02:39:23.223127600Z",
+  "updated_at": "2026-05-17T02:40:43.690005500Z",
   "public": false
 }
