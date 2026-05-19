@@ -16,8 +16,8 @@
       "folder_name": "BaseLib.3.1.2",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.2.zip",
-      "bundle_sha256": "69db9a6dd66de1e65c270b1e19b12b8dc58074c417c9127fbdaa3c27648b0972"
+      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.2_f7e5f8ca.zip",
+      "bundle_sha256": "f7e5f8ca5357cfb47b8174606f3a4cc5edcb5d8053931aa96367b5e1e3db2502"
     },
     {
       "name": "BetterSpire2",
@@ -46,8 +46,8 @@
       "folder_name": "BetterSpire2",
       "mod_id": "BetterSpire2",
       "enabled": true,
-      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.2.zip",
-      "bundle_sha256": "709c24d2fbb53cf17fc57307c76112517ef21c90460d06e8792720dae9237b1a"
+      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.2_63787e46.zip",
+      "bundle_sha256": "63787e4612c361be4672ab5b4f7976b425dc2b1ec3e6088ab51eaa9a73fc25e7"
     },
     {
       "name": "Campfire Trading",
@@ -62,8 +62,24 @@
       "folder_name": "STS2Trade",
       "mod_id": "STS2Trade",
       "enabled": true,
-      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Campfire_Trading_v1.0.zip",
-      "bundle_sha256": "7f862aa67dafc1df99dc58ad7b0d24930668715daaa2e2743779122ae375e114"
+      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Campfire_Trading_v1.0_498555e1.zip",
+      "bundle_sha256": "498555e1a5d0519f02bbc64c8adb831dde43b6cdca151173d9b8ed8c9f0a1ea4"
+    },
+    {
+      "name": "Card Art Editor",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "7ccd49c05613a3f5af481ba341af1786946248eb4e6ea98204930f601bd274a2",
+      "files": [
+        "card_art_editor\\card_art_editor\\card_art_editor.dll",
+        "card_art_editor\\card_art_editor\\card_art_editor.pck",
+        "card_art_editor\\card_art_editor\\manifest.json"
+      ],
+      "folder_name": "card_art_editor",
+      "mod_id": "card_art_editor",
+      "enabled": true,
+      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Card_Art_Editor_v0.1.0_9212a0b3.zip",
+      "bundle_sha256": "9212a0b3ce274104ff522b73ef2365cb8cb18c0a6e51249a9eda9120961b6403"
     },
     {
       "name": "discord_game_sdk",
@@ -75,8 +91,8 @@
       ],
       "folder_name": "discord_game_sdk",
       "enabled": true,
-      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/discord_game_sdk_vunknown.zip",
-      "bundle_sha256": "a7f4ec9aed7f5827fcd0e875324f07d0274071683ca4c8cf732d7f3914a36c26"
+      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/discord_game_sdk_vunknown_bf31263c.zip",
+      "bundle_sha256": "bf31263cda135c3efdf66ac0c4cf6ebbc333b0046fc9aee6b5e0163415f6d521"
     },
     {
       "name": "ElectricShrympPowers",
@@ -90,8 +106,8 @@
       "folder_name": "ElecShrympPowers",
       "mod_id": "ElectricShrympPowers",
       "enabled": true,
-      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/ElectricShrympPowers_v1.0.0.zip",
-      "bundle_sha256": "952ff921bc4d156d35227a17d18da650f24f5596a1537329813d92a496827c31"
+      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/ElectricShrympPowers_v1.0.0_e7cebddb.zip",
+      "bundle_sha256": "e7cebddbc6ed8b7b66e5e1b82fc6e2e962c885eaa35fb163618a0ab5e7bf1332"
     },
     {
       "name": "Head Start Modifier",
@@ -106,8 +122,8 @@
       "folder_name": "HeadstartModifier",
       "mod_id": "HeadstartModifier",
       "enabled": true,
-      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Head_Start_Modifier_v1.0.0.zip",
-      "bundle_sha256": "75999709fc2ac2cde5a8dc1e1f811b71b713c21408f27c8f27c2a3d207eba129"
+      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Head_Start_Modifier_v1.0.0_69e5abb1.zip",
+      "bundle_sha256": "69e5abb1a7b1c865936025c02696304c769abc911fb89ad9f486d9f68151a2de"
     },
     {
       "name": "ironcladSkin",
@@ -121,8 +137,8 @@
       "folder_name": "ironcladSkin",
       "mod_id": "ironcladSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/ironcladSkin_v0.0.1.zip",
-      "bundle_sha256": "11e97ae6da79cbd2f1bd1a8529fa9e887083d464bc637d347950c415840e3ae1"
+      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/ironcladSkin_v0.0.1_f658896c.zip",
+      "bundle_sha256": "f658896cbf0383ef02a015f5bab282580a9139fb7b965c98f23522ccb7c5d3db"
     },
     {
       "name": "Party Signals - Automatic Card Callouts",
@@ -150,8 +166,8 @@
       "folder_name": "partysignals",
       "mod_id": "partysignals",
       "enabled": true,
-      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Party_Signals_-_Automatic_Card_Callouts_v1.0.2.zip",
-      "bundle_sha256": "dd3af7eebac36a3c4eadc1ce379cf7919b25b36dd7131b0c1db89b3bb388a5a4"
+      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Party_Signals_-_Automatic_Card_Callouts_v1.0.2_71a6e703.zip",
+      "bundle_sha256": "71a6e70356cd6df840eb2db2b216e7144bfbdd756bbe17969d9dd5f75c8b1dac"
     },
     {
       "name": "Princess",
@@ -167,8 +183,8 @@
       "folder_name": "Princess",
       "mod_id": "Princess",
       "enabled": true,
-      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Princess_v0.0.1.zip",
-      "bundle_sha256": "abad413382f4ce6086b712555dc7a1cf79336d34cd825bba401d335f8d2f5c89"
+      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Princess_v0.0.1_1247f71a.zip",
+      "bundle_sha256": "1247f71aac90fce3902891068c188bdd3872d067b6d0c234708bb243bacd60b9"
     },
     {
       "name": "SealsStampablePowers",
@@ -183,8 +199,8 @@
       "folder_name": "SealsStampablePowers",
       "mod_id": "SealsStampablePowers",
       "enabled": true,
-      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/SealsStampablePowers_v1.0.1.zip",
-      "bundle_sha256": "29dbba8b429c259365758ee53414d4a241abe45e09e487284baa52990c9a9fc5"
+      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/SealsStampablePowers_v1.0.1_06ba72ad.zip",
+      "bundle_sha256": "06ba72ad6185e3a0c5217b43608051064f962949f7c224d24f9fba839e658ac9"
     },
     {
       "name": "silentSkin",
@@ -198,8 +214,8 @@
       "folder_name": "silentSkin",
       "mod_id": "silentSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1.zip",
-      "bundle_sha256": "b88dda13a23cadf1ceeb28dc20aaa22691a822c56f7d0a9cab4b4c17437dc4ec"
+      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_4b5e3a34.zip",
+      "bundle_sha256": "4b5e3a34838386335b079d2b3980e966e74cfed70279f18923bc22623cf7d56c"
     },
     {
       "name": "The Hermit",
@@ -214,8 +230,8 @@
       "folder_name": "HermitMod",
       "mod_id": "HermitMod",
       "enabled": true,
-      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/The_Hermit_v2.0.0.zip",
-      "bundle_sha256": "9ba3435923a03589d6c841de71786d80a49f66e06d92aaa19608fca7e4adb019"
+      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/The_Hermit_v2.0.0_2db61e00.zip",
+      "bundle_sha256": "2db61e0094ca17fa206b84d110a144f24dfe4d32eeda0494b5069e09cd296158"
     },
     {
       "name": "Unified Save Path",
@@ -230,11 +246,27 @@
       "folder_name": "UnifiedSavePaths",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0.zip",
-      "bundle_sha256": "9fa60ffe518bc66a06a56667127cc1f2a0aedefe878d9de0710364e3d5d18911"
+      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_c3cb7173.zip",
+      "bundle_sha256": "c3cb71732fb4acbefcb8cb7226a3bbaf7c8a718b18bab8ed6dc80a7851598f97"
+    },
+    {
+      "name": "Watcher",
+      "version": "0.5.17",
+      "source": null,
+      "hash": "3bae5d126ad2b2e80fb179aa216fc86100c3bee4a241ef10fa5c16819a128da3",
+      "files": [
+        "Watcher\\Watcher.dll",
+        "Watcher\\Watcher.json",
+        "Watcher\\Watcher.pck"
+      ],
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
+      "enabled": true,
+      "bundle_url": "https://github.com/InternetBrauzer/sts2mm-profiles/releases/download/bundles/Watcher_v0.5.17_63e0fce3.zip",
+      "bundle_sha256": "63e0fce316fbfbf2a3d61403099e212564f02c301e36b6a01a0178716f1a676f"
     }
   ],
   "created_at": "2026-05-15T17:11:57.849095200Z",
-  "updated_at": "2026-05-17T22:35:24.401001400Z",
+  "updated_at": "2026-05-19T02:29:49.899360300Z",
   "public": false
 }
